@@ -1,4 +1,5 @@
-# Informações sobre a base de dados
+# Notas de Estudo
+## Informações sobre a base de dados
 
 Este arquivo contém dados abrangentes do programa de fidelidade da companhia aérea, abrangendo a campanha promocional, inclui detalhes sobre inscrição no programa, cancelamentos e informações adicionais do cliente.
 
